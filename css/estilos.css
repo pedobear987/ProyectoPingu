@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+    background-color: white;
+    background-image: url("grupopin.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h3{
+    font-family: Courier;
+    font-size: 50px;
+    font-style: normal;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-style: italic;
+}
+h1{
+    font-size: 70px;
+    text-shadow: 2px 2px 2px cadetblue;
+}
+#princi{
+    text-align: center;
+    font-family: Calibri;
+    font-size: large;
+    font-style: normal;
+    padding: 20px;
+    background-color: snow;
+    border-radius: 10px;
+    border: solid;
+    border-color: cyan;
+}
+/*gif*/
+#pingif{
+    width: 100px;
+}
+/*fotos de pinguinos*/
+#treping, #treping1{
+    width: 350px;
+}
+#encabezado{
+    width: 200%;
+    height: 200%;
+}
+footer {
+    background-color: #262626;
+    color: white;
+    align-items: center;
+    justify-items: center;
+    position: initial;
+    bottom: 0;
+}
+#social {
+    height: 10%;
+    width: 10%;
+    position: center;
+    position: relative;
+}
+#social:hover {
+    height: 8%;
+    width: 8%;
+    border: solid;
+    border-color: magenta;
+    border-radius: 2cm;
+}
+#especie {
+    height:900px;
+    width: 900px;
+}
+p {
+    font-family: Calibri;
+    font-size: large;
+    font-style: normal;
+}
+#link_especie {
+    text-decoration: none;
+}
+h5 {
+    font-style: italic;
+    font-size: large;
+    background-color: snow;
+    border-radius: 1cm;
+    border-style: inset;
+    border-color: blue;
+}
+#adult {
+    height: 10cm;
+    width: 10cm;
+    border-radius: 4cm;
+    position: relative;
+}
+#cria {
+    height: 10cm;
+    width: 10cm;
+    border-image: round;
+    border-radius: 4cm;
+    position: relative;
+}
+#desc {
+    font-family: Calibri;
+    font-size: large;
+    font-style: normal;
+    padding: 20px;
+    background-color: snow;
+    border-radius: 10px;
+    border: solid;
+    border-color: cyan;
+}
+form {
+    size: 5cm;
+}
