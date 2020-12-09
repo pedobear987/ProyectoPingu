@@ -48,18 +48,14 @@ footer {
     color: white;
     align-items: center;
     justify-items: center;
-    position: initial;
-    bottom: 0;
 }
 #social {
-    height: 40%;
-    width: 40%;
+    width: 50%;
     position: center;
     position: relative;
 }
 #social:hover {
-    height: 30%;
-    width: 30%;
+    width: 40%;
     border: solid;
     border-color: magenta;
     border-radius: 2cm;
