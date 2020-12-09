@@ -52,14 +52,14 @@ footer {
     bottom: 0;
 }
 #social {
-    height: 10%;
-    width: 10%;
+    height: 40%;
+    width: 40%;
     position: center;
     position: relative;
 }
 #social:hover {
-    height: 8%;
-    width: 8%;
+    height: 30%;
+    width: 30%;
     border: solid;
     border-color: magenta;
     border-radius: 2cm;
